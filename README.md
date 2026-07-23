@@ -137,15 +137,24 @@ Final Answer
 
 ## 📸 Screenshots
 
+## Home Screen
+
+![Home](screenshots/home.png)
+
+---
+
 ### Upload Documents
 
-(Add Screenshot Here)
+![Home](screenshots/upload.png)
 
 ---
 
 ### Chat Interface
 
-(Add Screenshot Here)
+![Home](screenshots/chat.png)
+
+
+![Home](screenshots/chat2.png)
 
 ---
 
