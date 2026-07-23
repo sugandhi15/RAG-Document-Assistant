@@ -149,18 +149,12 @@ Final Answer
 
 ---
 
-### Chat Interface
+### Retrieved Context
 
 ![Home](screenshots/chat.png)
 
 
 ![Home](screenshots/chat2.png)
-
----
-
-### Retrieved Context
-
-(Add Screenshot Here)
 
 ---
 
